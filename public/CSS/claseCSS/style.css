@@ -1,0 +1,18 @@
+/*etiqueta=elemento*/
+p
+{
+    color: blue;
+    font-size: 40px;
+}
+/* class*/
+.parrafo
+{
+    color: blueviolet;
+    font-size: 50px;
+}
+/*ID*/
+#texto
+{
+    color: chartreuse;
+    font-size: 24px;
+}
