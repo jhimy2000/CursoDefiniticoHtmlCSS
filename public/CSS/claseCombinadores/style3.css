@@ -1,0 +1,10 @@
+
+div > p {/*el padre div que sea mayor a unaetiqueta p 
+    TIENE QUE SER HIJA DIRECTA*/
+    color: red;
+
+}
+
+div p { /*todas la etiquetas p que ESTEN DENTRO DE UN DIV*/
+    color: blue;
+}
